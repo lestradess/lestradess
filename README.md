@@ -1,11 +1,16 @@
-### Hola, soy Jose Luis, un desarrollador frontend 👋
-Soy una persona apasionada por la programación y el aprendizaje continuo. He tomado la decisión de reinventarme, dejar mi antiguo empleo y vivir de lo que realmente me gusta, sin importar los desafíos
-que se presenten en el camino. 
+### Hello, I'm Jose Luis, a frontend developer 👋
+I'm deeply passionate about programming and committed to lifelong learning. I've made a bold decision to reshape my career by leaving my previous job behind and wholeheartedly pursuing my true passion, no matter the challenges that lie ahead.
 
-Durante años, he luchado arduamente para preparar mi nuevo futuro en este campo y estoy decidido a aprovechar cada oportunidad que se me presente para seguir creciendo
-y desarrollándome como profesional en el mundo de la programación.
+Over the years, I've dedicated countless hours to prepare for this new chapter in my life, striving for excellence every step of the way. I'm unwavering in my determination to seize every opportunity that comes my way, continually evolving and advancing as a professional within the dynamic world of programming.
 
-Una de las cosas que más me gustaría es formar un equipo y desarrollar un Juego como el [Ultima Online](https://es.wikipedia.org/wiki/Ultima_Online) el predecesor de todos los juegos de crafteo de mundo abierto.
+Currently, I'm fully immersed in my journey to acquire extensive knowledge and expertise. My primary focus is on becoming a proficient Frontend Developer, delving deep into the array of technologies that drive frontend development. My ultimate aim is to master these technologies and leverage them to craft exceptional user experiences.
+
+As I progress, I hold a vision of one day harnessing my experience to collaborate with a talented team and create a game inspired by the legendary [Ultima Online](https://es.wikipedia.org/wiki/Ultima_Online), a pioneering title that laid the foundation for the entire genre of open-world sandbox games.
+
+
+
+
+
 
 [![CV](https://img.shields.io/badge/📖_CV-0077B5?style=for-the-badge&logo=cv&logoColor=white)](https://drive.google.com/file/d/1d_jqN3jbIm2amRUhPBit2O3MT4SUNExW/view?usp=sharing)
 ## 👥 Social
